@@ -1,12 +1,10 @@
 package com.wchy.actor
 
 /**
-  * Created by ZX on 2016/4/4.
   */
 import scala.actors.Actor
 
 /**
-  * Created by ZX on 2015/6/20.
   */
 class AppleActor extends Actor {
 

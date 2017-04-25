@@ -1,7 +1,6 @@
 package com.wchy.cases
 
 /**
-  * Created by ZX on 2016/4/5.
   */
 object PartialFuncDemo  {
 

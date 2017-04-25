@@ -4,7 +4,6 @@ import scala.actors.{Actor, Future}
 import scala.collection.mutable.{HashSet, ListBuffer}
 import scala.io.Source
 /**
-  * Created by root on 2016/5/11.
   */
 class Task extends Actor {
   override def act(): Unit = {

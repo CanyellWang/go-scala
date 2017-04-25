@@ -1,7 +1,6 @@
 package com.wchy.collect
 
 /**
-  * Created by ZX on 2016/4/6.
   */
 object WorldCount {
 

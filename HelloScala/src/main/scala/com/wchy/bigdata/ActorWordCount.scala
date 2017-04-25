@@ -5,7 +5,6 @@ import scala.collection.mutable.ListBuffer
 import scala.io.Source
 
 /**
-  * Created by ZX on 2016/4/7.
   */
 
 case class Submit(filePath: String)

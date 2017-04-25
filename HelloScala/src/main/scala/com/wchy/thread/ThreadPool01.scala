@@ -3,7 +3,6 @@ package com.wchy.thread
 import java.util.concurrent.{ExecutorService, Executors, TimeUnit}
 
 /**
-  * Created by ZX on 2016/3/29.
   */
 object ThreadPool01 {
 
